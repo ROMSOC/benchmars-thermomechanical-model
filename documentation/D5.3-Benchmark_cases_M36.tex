@@ -1,0 +1,216 @@
+\documentclass{ROMSOC}
+% Select what to do with acronyms (for options see acronyms.tex)
+\usepackage[printonlyused,nohyperlinks]{acronym}
+% Select what to do with todonotes: 
+%\usepackage[disable]{todonotes} % notes not showed
+\usepackage[draft,textwidth=1.7cm, textsize=footnotesize,color=ROMSOCblue!30,colorinlistoftodos]{todonotes}   % notes showed
+\usepackage{pythonhighlight}%ESR10 SHAH
+\usepackage{listings}%ESR10 SHAH
+\setlength{\marginparwidth}{1.7cm}
+
+\begin{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% First Page
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\hypersetup{pageanchor=false}
+\graphicspath{{images/}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Change Title, Number and Version of Deliverable here!!
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\DelTitle}{Coupled parameterized reduced order modelling of thermo-mechanical phenomena arising in blast furnace}
+\newcommand{\DelNumber}{D5.3}
+\newcommand{\DelVersion}{0.1}
+\newcommand{\footertext}{\raisebox{3mm}{Deliverable \DelNumber}}
+\setlength{\footheight}{40pt}
+\newcommand{\footerlogo}{\raisebox{3mm}{\leavevmode\includegraphics[width=1.5cm]{ROMSOC_Logo_bw}}}
+\clearscrheadfoot
+\pagestyle{empty}
+
+\newcolumntype{C}{ >{\centering\arraybackslash} m{4cm} }
+
+\begin{center}
+Horizon 2020
+\vspace{2cm}
+
+  \begin{center}
+  \includegraphics[width=0.2\textwidth]{./images/ROMSOC_Logo}
+  \vspace{2mm}
+  \end{center}
+  \vspace{1cm}
+  {\Large Reduced Order Modelling, Simulation and Optimization of Coupled systems}
+  \vspace{2cm}
+
+  \begin{spacing}{2.5}
+    \textbf{\Huge \DelTitle}\\\vspace{10mm}
+    \textbf{\Large Deliverable number: \DelNumber} \\\vspace{10mm} 
+    {\large Version \DelVersion}
+  \end{spacing}
+  
+  \vspace*{\fill}
+
+  %just to avoid warning
+  \newcommand\undefcolumntype[1]{\expandafter\let\csname NC@find@#1\endcsname\relax}
+  \newcommand\forcenewcolumntype[1]{\undefcolumntype{#1}\newcolumntype{#1}}
+  \forcenewcolumntype{C}{ >{\arraybackslash} m{3cm} }
+
+  \begin{tabular}{C@{\hspace*{0cm}}l}
+    \includegraphics[scale=0.2]{./images/logos/EU_Flag} &
+    \begin{tabular}{l}
+    {Funded by the European Union’s Horizon 2020 research and innovation programme}\\
+    {under the Marie Sk\l odowska-Curie Grant Agreement No. 765374}\\
+    \end{tabular}
+  \end{tabular}
+\end{center}
+
+\clearpage
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Second Page 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\setlength{\headheight}{1cm}
+\setlength{\footskip}{18mm}
+\addtolength{\textheight}{-\footskip}
+\pagestyle{empty}
+
+\begin{flushleft}
+  \begin{tabular}{ll}
+    \textbf{Project Acronym:}       &  ROMSOC \\
+    \textbf{Project Full Title:}    &  Reduced Order Modelling, Simulation and Optimization of Coupled systems  \\
+    \textbf{Call:}                  &  H2020-MSCA-ITN-2017 \\ 
+    \textbf{Topic:}                 &  Innovative Training Network \\
+    \textbf{Type of Action:}        &  European Industrial Doctorates \\
+    \textbf{Grant Number:}          &   765374 \\
+%    \textbf{Project website:}           &  \url{http://www.romsoc.eu} 
+  \end{tabular}
+
+
+% define "struts", as suggested by Claudio Beccari in
+%    a piece in TeX and TUG News, Vol. 2, 1993.
+\newcommand\Tstrut{\rule{0pt}{2.6ex}}         % = `top' strut
+\newcommand\Bstrut{\rule[-0.9ex]{0pt}{0pt}}   % = `bottom' strut
+
+\vspace{0.5cm}
+   \begin{tabular}{|l|p{119mm}|}\hline
+     \Tstrut\Bstrut Editor:& Andr\'es Prieto, \acs{ITMATI}\\\hline
+     \Tstrut\Bstrut Deliverable nature:& Report (R) \\\hline
+%Options for Deliverable nature (see Annex 1, GA):
+%	R      - Document, Report
+%	DEM    - Demonstrator, pilot, prototype
+%	DEC    - Websites, patent fillings, videos, etc.
+%	OTHER
+%	ETHICS - Ethics requirements
+%	ORDP   - Open Research Data Pilot
+     \Tstrut\Bstrut Dissemination level:& Public (PU)\\\hline
+%Options for Dissimination level:
+%	PU  - Public
+%	CO  - Confidential, only for members of the consortium (including the Commission Services)
+     \Tstrut\Bstrut Contractual Delivery Date:& 01/07/2021\\\hline
+     \Tstrut\Bstrut Actual Delivery Date& 01/07/2021\\\hline
+     \Tstrut\Bstrut Number of pages:&\pageref{finalpg}\\\hline
+     \Tstrut\Bstrut Keywords:& Blast furnace hearth, Thermo-mechanical axisymmetric model, Finite element method, Benchmark verification, Moder order reduction, Proper orthogonal decomposition. \\\hline
+     \Tstrut Authors:&
+     \begin{tabular}[t]{l}
+	Nirav Vasant Shah, \acs{ESR}10, \\
+	Mathematical Analysis, Modelling, and Applications, mathLab, \acs{SISSA} \Bstrut \\
+	Dr. Michele Girfoglio, Post doctoral researcher, \\
+	Mathematical Analysis, Modelling, and Applications, mathLab, \acs{SISSA} \Bstrut \\
+	Dr. Patricia Barral, Associate Professor, \\
+	Applied Mathematics, University of Santiago de Compostela, \acs{ITMATI} \Bstrut \\
+	Prof. Peregrina Quintela, Full Professor, \\
+	Applied Mathematics, University of Santiago de Compostela, \acs{ITMATI} \Bstrut \\
+	Prof. Gianluigi Rozza, Full professor, \\
+	Mathematical Analysis, Modelling, and Applications, mathLab, \acs{SISSA} \Bstrut \\
+	Ing. Alejandro lengomin, R\&D Engineer, \\
+	Global Research and Development Center, \acs{AMIII} \Bstrut
+     \end{tabular}\\\hline
+     \Tstrut\Bstrut Peer review: &
+     \begin{tabular}[t]{l}
+ 	\end{tabular}\\\hline
+   \end{tabular}
+\end{flushleft}
+
+\section*{Abstract}
+
+The benchmark cases related to coupled thermomechanical phenomena arising in blast furnace have been addressed by using open-source libraries. In this document, we provide details about the numerical implementation of the benchmark tests to verify, validate and reproduce the results of numerical experiments by aiming towards smooth transition for next developers and students interested in detailed investigation of our work.
+
+\vfill
+
+{\small
+\textbf{Disclaimer \& acknowledgment}\\
+This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Sk\l odowska-Curie Grant Agreement No. 765374. 
+
+This document reflects the views of the author(s) and does not necessarily reflect the views or policy of the European Commission. The REA cannot be held responsible for any use that may be made of the information this document contains.
+
+Reproduction and translation for non-commercial purposes are authorised, provided the source is acknowledged and the publisher is given prior notice and sent a copy. 
+%Copyright information: The above plan creator(s) have agreed that others may use as much of the text of this plan as they would like in their own plans, and customize it as necessary. You do not need to credit the creators as the source of the language used, but using any of their plan's text does not imply that the
+%creator(s) endorse, or have any relationship to, your project or proposal.
+}
+\clearpage
+
+
+\setcounter{tocdepth}{2}
+
+\tableofcontents
+%\vfill
+%\listoffigures
+%\begingroup
+%\let\clearpage\relax
+%\listoftables
+%\vfill
+%\endgroup
+
+% This should be included if the deliverable becomes large
+\newpage
+\input{acronyms} % optional
+
+\lofoot[\footerlogo \hspace{10pt} \footertext]{\footerlogo \hspace{10pt} \footertext}
+\lefoot[\footerlogo \hspace{10pt} \footertext]{\footerlogo \hspace{10pt} \footertext}
+
+\refoot[\pagemark]{\pagemark}
+\rofoot[\pagemark]{\pagemark}
+
+\rohead{\rightmark}
+\rehead{\rightmark}
+
+\setcounter{page}{1}
+\pagestyle{scrheadings}
+
+% the following is optional and depend on the deliverable
+\hypersetup{pageanchor=true}
+\input{content}
+\bibliography{./bib/references}
+%\newpage
+%\appendix
+%\input{appendix.tex}
+
+
+\label{finalpg}
+\clearpage
+
+\thispagestyle{empty}
+\begin{center}
+\vfill
+\begin{figure}
+\centering
+\vspace{7cm}
+  \includegraphics[width=3cm]{./images/ROMSOC_Logo_bw}
+\end{figure}
+\vfill
+{\large The ROMSOC project\\[0.5cm] }
+{\large \today \\[0.5cm] }
+{\large ROMSOC-\DelNumber-\DelVersion\\[0.5cm] }
+\vfill
+
+Horizon 2020
+
+\end{center}
+\end{document}
+
+
+
+
+
+
+
+

@@ -1,0 +1,8 @@
+
+ def compute_h1r_norm(psi,mesh):
+	x = SpatialCoordinate(mesh)
+	a = inner(psi,psi)*x[0]*dx + inner(grad(psi),grad(psi))*x[0]*dx
+	A = assemble(a)
+	return sqrt(A)
+
+

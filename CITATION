@@ -1,0 +1,9 @@
+@misc{thermomechanical_coupled_one_way-0.1,
+  key          = {ThermoMechanicalCoupled},
+  author       = {Shah, N.V. and Girfoglio, M. and Barral, P. and Quintela, P. and Rozza, G. and Lengomin, A.},
+  title        = {{ThermoMechanicalCoupled} -- {Coupled parameterized reduced order modelling of thermo-mechanical phenomena arising in blast furnaces} {Version 0.1}},
+  month        = June,
+  year         = 2021,
+  doi          = {10.xxxx/zenodo.xxxxxxx},
+  note         = {see also: \url{https://zenodo.org/record/3888145}}
+}

@@ -1,0 +1,1620 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.12.3)  30 JUN 2021 18:33
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**D5.3-Benchmark_cases_M36.tex
+(./D5.3-Benchmark_cases_M36.tex
+LaTeX2e <2019-10-01> patch level 3
+(./ROMSOC.cls
+Document Class: ROMSOC 
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/koma-script/scrartcl.cls
+Document Class: scrartcl 2019/10/12 v3.27 KOMA-Script document class (article)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2019/10/12 v3.27 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2019/10/12 v3.27 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2019/10/12 v3.27 KOMA-Script package (loading files)
+)))
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/koma-script/tocbasic.sty
+Package: tocbasic 2019/10/12 v3.27 KOMA-Script package (handling toc-files)
+\scr@dte@tocline@numberwidth=\skip41
+\scr@dte@tocline@numbox=\box27
+)
+Package tocbasic Info: omitting babel extension for `toc'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `toc' on input line 137.
+Class scrartcl Info: You've used standard option `final'.
+(scrartcl)           This is correct!
+(scrartcl)           Internally I'm using `draft=false'.
+(scrartcl)           If you'd like to set the option with \KOMAoptions,
+(scrartcl)           you'd have to use `draft=false' there
+(scrartcl)           instead of `final', too.
+Package scrartcl Info: You've used standard option `11pt'.
+(scrartcl)             This is correct!
+(scrartcl)             Internally I'm using `fontsize=11pt'.
+(scrartcl)             If you'd like to set the option with \KOMAoptions,
+(scrartcl)             you'd have to use `fontsize=11pt' there
+(scrartcl)             instead of `11pt', too.
+Class scrartcl Info: File `scrsize11pt.clo' used to setup font sizes on input l
+ine 2208.
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/koma-script/scrsize11pt.clo
+File: scrsize11pt.clo 2019/10/12 v3.27 KOMA-Script font size class option (11pt
+)
+) (/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/koma-script/typearea.sty
+Package: typearea 2019/10/12 v3.27 KOMA-Script package (type area)
+\ta@bcor=\skip42
+\ta@div=\count80
+\ta@hblk=\skip43
+\ta@vblk=\skip44
+\ta@temp=\skip45
+\footheight=\skip46
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 10
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 418.25555pt
+(typearea)              DIV departure   = -6%
+(typearea)              \evensidemargin = 17.3562pt
+(typearea)              \oddsidemargin  = 17.3562pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 595.80026pt
+(typearea)              \topmargin      = -25.16531pt
+(typearea)              \headheight     = 17.0pt
+(typearea)              \headsep        = 20.40001pt
+(typearea)              \topskip        = 11.0pt
+(typearea)              \footskip       = 47.6pt
+(typearea)              \baselineskip   = 13.6pt
+(typearea)              on input line 1716.
+)
+\c@part=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\scr@dte@section@maxnumwidth=\skip47
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\section on input line 4702.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\section on input line 4702.
+\scr@dte@part@maxnumwidth=\skip48
+Class scrartcl Info: using compatibility default `afterindent=false'
+(scrartcl)           for `\part on input line 4710.
+\scr@dte@subsection@maxnumwidth=\skip49
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\subsection on input line 4720.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\subsection on input line 4720.
+\scr@dte@subsubsection@maxnumwidth=\skip50
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\subsubsection on input line 4730.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\subsubsection on input line 4730.
+\scr@dte@paragraph@maxnumwidth=\skip51
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\paragraph on input line 4740.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\paragraph on input line 4740.
+\scr@dte@subparagraph@maxnumwidth=\skip52
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\subparagraph on input line 4750.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\subparagraph on input line 4750.
+\abovecaptionskip=\skip53
+\belowcaptionskip=\skip54
+\c@pti@nb@sid@b@x=\box28
+Package tocbasic Info: omitting babel extension for `lof'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lof' on input line 5969.
+\scr@dte@figure@maxnumwidth=\skip55
+\c@figure=\count87
+Package tocbasic Info: omitting babel extension for `lot'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lot' on input line 5981.
+\scr@dte@table@maxnumwidth=\skip56
+\c@table=\count88
+Class scrartcl Info: Redefining `\numberline' on input line 6145.
+\bibindent=\dimen102
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2019/11/14 3.36 The Babel package
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2019/11/14 3.36 Babel switching mechanism
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2019/11/14 3.36 Babel common definitions
+\babel@savecnt=\count89
+\U@D=\dimen103
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@dirlevel=\count90
+)
+Package babel Info: \l@canadian = using hyphenrules for english
+(babel)             (\language0) on input line 102.
+Package babel Info: \l@australian = using hyphenrules for ukenglish
+(babel)             (\language21) on input line 105.
+Package babel Info: \l@newzealand = using hyphenrules for ukenglish
+(babel)             (\language21) on input line 108.
+))
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks17
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/01 v1.3d Standard LaTeX Graphics (DPC,SPQR)
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count91
+\rotFPtop=\skip57
+\rotFPbot=\skip58
+\rot@float@box=\box29
+\rot@mess@toks=\toks18
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/framed/framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip59
+\fb@frw=\dimen106
+\fb@frh=\dimen107
+\FrameRule=\dimen108
+\FrameSep=\dimen109
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/fancybox/fancybox.sty
+Package: fancybox 2010/05/15 1.4
+
+Style option: `fancybox' v1.4 <2010/05/15> (tvz)
+\@fancybox=\box30
+\shadowsize=\dimen110
+\@Sbox=\box31
+\do@VerbBox=\toks19
+\the@fancyput=\toks20
+\this@fancyput=\toks21
+\EndVerbatimTokens=\toks22
+\Verbatim@Outfile=\write3
+\Verbatim@Infile=\read1
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/koma-script/scrlayer-scrpage
+.sty
+Package: scrlayer-scrpage 2019/10/12 v3.27 KOMA-Script package (end user interf
+ace for scrlayer)
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/koma-script/scrlayer.sty
+Package: scrlayer 2019/10/12 v3.27 KOMA-Script package (defining layers and pag
+e styles)
+Package scrlayer Info: Using already defined \footheight
+(scrlayer)             hoping, that this is a length and
+(scrlayer)             not only a macro on input line 109.
+Package scrlayer Info: patching LaTeX kernel macro \pagestyle on input line 208
+3.
+)
+Package scrlayer-scrpage Info: Makeing stand-alone element `pagehead' from
+(scrlayer-scrpage)             alias to `pageheadfoot' on input line 1244.
+Package scrlayer-scrpage Info: deactivating warning for font element
+(scrlayer-scrpage)             `pagefoot' on input line 1271.
+)
+Package scrlayer-scrpage Info: auto-selection of `pagestyleset=KOMA-Script'.
+
+1: subsection
+1: section
+1: section
+1: subsection
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count92
+\float@exts=\toks23
+\float@box=\box32
+\@float@everytoks=\toks24
+\@floatcapt=\box33
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/tools/array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen111
+\ar@mcellbox=\box34
+\extrarowheight=\dimen112
+\NC@list=\toks25
+\extratabsurround=\skip60
+\backup@length=\skip61
+\ar@cellbox=\box35
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2019/10/08 v1.6180339 publication quality tables
+\heavyrulewidth=\dimen113
+\lightrulewidth=\dimen114
+\cmidrulewidth=\dimen115
+\belowrulesep=\dimen116
+\belowbottomsep=\dimen117
+\aboverulesep=\dimen118
+\abovetopsep=\dimen119
+\cmidrulesep=\dimen120
+\cmidrulekern=\dimen121
+\defaultaddspace=\dimen122
+\@cmidla=\count93
+\@cmidlb=\count94
+\@aboverulesep=\dimen123
+\@belowrulesep=\dimen124
+\@thisruleclass=\count95
+\@lastruleclass=\count96
+\@thisrulewidth=\dimen125
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2019/11/16 v2.17d AMS math features
+\@mathmargin=\skip62
+
+For additional information on amsmath, use the `?' option.
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks26
+\ex@=\dimen126
+))
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen127
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count97
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count98
+\leftroot@=\count99
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count100
+\DOTSCASE@=\count101
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box36
+\strutbox@=\box37
+\big@size=\dimen128
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count102
+\c@MaxMatrixCols=\count103
+\dotsspace@=\muskip11
+\c@parentequation=\count104
+\dspbrk@lvl=\count105
+\tag@help=\toks27
+\row@=\count106
+\column@=\count107
+\maxfields@=\count108
+\andhelp@=\toks28
+\eqnshift@=\dimen129
+\alignsep@=\dimen130
+\tagshift@=\dimen131
+\tagwidth@=\dimen132
+\totwidth@=\dimen133
+\lineht@=\dimen134
+\@envbody=\toks29
+\multlinegap=\skip63
+\multlinetaggap=\skip64
+\mathdisplay@stack=\toks30
+LaTeX Info: Redefining \[ on input line 2858.
+LaTeX Info: Redefining \] on input line 2859.
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks31
+\thm@bodyfont=\toks32
+\thm@headfont=\toks33
+\thm@notefont=\toks34
+\thm@headpunct=\toks35
+\thm@preskip=\skip65
+\thm@postskip=\skip66
+\thm@headsep=\skip67
+\dth@everypar=\toks36
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/xpatch/xpatch.sty
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2019-11-07 L3 programming layer (loader) 
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2019-11-07 L3 programming layer (code)
+\c_max_int=\count109
+\l_tmpa_int=\count110
+\l_tmpb_int=\count111
+\g_tmpa_int=\count112
+\g_tmpb_int=\count113
+\l__seq_internal_a_int=\count114
+\l__seq_internal_b_int=\count115
+\g__kernel_prg_map_int=\count116
+\c__ior_term_noprompt_ior=\count117
+\c_log_iow=\count118
+\l_iow_line_count_int=\count119
+\l__iow_line_target_int=\count120
+\l__iow_one_indent_int=\count121
+\l__iow_indent_int=\count122
+\c_zero_dim=\dimen135
+\c_max_dim=\dimen136
+\l_tmpa_dim=\dimen137
+\l_tmpb_dim=\dimen138
+\g_tmpa_dim=\dimen139
+\g_tmpb_dim=\dimen140
+\c_zero_skip=\skip68
+\c_max_skip=\skip69
+\l_tmpa_skip=\skip70
+\l_tmpb_skip=\skip71
+\g_tmpa_skip=\skip72
+\g_tmpb_skip=\skip73
+\c_zero_muskip=\muskip12
+\c_max_muskip=\muskip13
+\l_tmpa_muskip=\muskip14
+\l_tmpb_muskip=\muskip15
+\g_tmpa_muskip=\muskip16
+\g_tmpb_muskip=\muskip17
+\l_keys_choice_int=\count123
+\l__intarray_loop_int=\count124
+\c__intarray_sp_dim=\dimen141
+\g__intarray_font_int=\count125
+\c__fp_leading_shift_int=\count126
+\c__fp_middle_shift_int=\count127
+\c__fp_trailing_shift_int=\count128
+\c__fp_big_leading_shift_int=\count129
+\c__fp_big_middle_shift_int=\count130
+\c__fp_big_trailing_shift_int=\count131
+\c__fp_Bigg_leading_shift_int=\count132
+\c__fp_Bigg_middle_shift_int=\count133
+\c__fp_Bigg_trailing_shift_int=\count134
+\c__kernel_randint_max_int=\count135
+\g__fp_array_int=\count136
+\l__fp_array_loop_int=\count137
+\l__sort_length_int=\count138
+\l__sort_min_int=\count139
+\l__sort_top_int=\count140
+\l__sort_max_int=\count141
+\l__sort_true_max_int=\count142
+\l__sort_block_int=\count143
+\l__sort_begin_int=\count144
+\l__sort_end_int=\count145
+\l__sort_A_int=\count146
+\l__sort_B_int=\count147
+\l__sort_C_int=\count148
+\l__str_internal_int=\count149
+\c__str_replacement_char_int=\count150
+\l__tl_analysis_normal_int=\count151
+\l__tl_analysis_index_int=\count152
+\l__tl_analysis_nesting_int=\count153
+\l__tl_analysis_type_int=\count154
+\l__regex_internal_a_int=\count155
+\l__regex_internal_b_int=\count156
+\l__regex_internal_c_int=\count157
+\l__regex_balance_int=\count158
+\l__regex_group_level_int=\count159
+\l__regex_mode_int=\count160
+\c__regex_cs_in_class_mode_int=\count161
+\c__regex_cs_mode_int=\count162
+\l__regex_catcodes_int=\count163
+\l__regex_default_catcodes_int=\count164
+\c__regex_catcode_D_int=\count165
+\c__regex_catcode_S_int=\count166
+\c__regex_catcode_L_int=\count167
+\c__regex_catcode_O_int=\count168
+\c__regex_catcode_A_int=\count169
+\c__regex_all_catcodes_int=\count170
+\l__regex_show_lines_int=\count171
+\l__regex_min_state_int=\count172
+\l__regex_max_state_int=\count173
+\l__regex_left_state_int=\count174
+\l__regex_right_state_int=\count175
+\l__regex_capturing_group_int=\count176
+\l__regex_min_pos_int=\count177
+\l__regex_max_pos_int=\count178
+\l__regex_curr_pos_int=\count179
+\l__regex_start_pos_int=\count180
+\l__regex_success_pos_int=\count181
+\l__regex_curr_char_int=\count182
+\l__regex_curr_catcode_int=\count183
+\l__regex_last_char_int=\count184
+\l__regex_case_changed_char_int=\count185
+\l__regex_curr_state_int=\count186
+\l__regex_step_int=\count187
+\l__regex_min_active_int=\count188
+\l__regex_max_active_int=\count189
+\l__regex_replacement_csnames_int=\count190
+\l__regex_match_count_int=\count191
+\l__regex_min_submatch_int=\count192
+\l__regex_submatch_int=\count193
+\l__regex_zeroth_submatch_int=\count194
+\g__regex_trace_regex_int=\count195
+\c_empty_box=\box38
+\l_tmpa_box=\box39
+\l_tmpb_box=\box40
+\g_tmpa_box=\box41
+\g_tmpb_box=\box42
+\l__box_top_dim=\dimen142
+\l__box_bottom_dim=\dimen143
+\l__box_left_dim=\dimen144
+\l__box_right_dim=\dimen145
+\l__box_top_new_dim=\dimen146
+\l__box_bottom_new_dim=\dimen147
+\l__box_left_new_dim=\dimen148
+\l__box_right_new_dim=\dimen149
+\l__box_internal_box=\box43
+\l__coffin_internal_box=\box44
+\l__coffin_internal_dim=\dimen150
+\l__coffin_offset_x_dim=\dimen151
+\l__coffin_offset_y_dim=\dimen152
+\l__coffin_x_dim=\dimen153
+\l__coffin_y_dim=\dimen154
+\l__coffin_x_prime_dim=\dimen155
+\l__coffin_y_prime_dim=\dimen156
+\c_empty_coffin=\box45
+\l__coffin_aligned_coffin=\box46
+\l__coffin_aligned_internal_coffin=\box47
+\l_tmpa_coffin=\box48
+\l_tmpb_coffin=\box49
+\g_tmpa_coffin=\box50
+\g_tmpb_coffin=\box51
+\l__coffin_bounding_shift_dim=\dimen157
+\l__coffin_left_corner_dim=\dimen158
+\l__coffin_right_corner_dim=\dimen159
+\l__coffin_bottom_corner_dim=\dimen160
+\l__coffin_top_corner_dim=\dimen161
+\l__coffin_scaled_total_height_dim=\dimen162
+\l__coffin_scaled_width_dim=\dimen163
+\c__coffin_empty_coffin=\box52
+\l__coffin_display_coffin=\box53
+\l__coffin_display_coord_coffin=\box54
+\l__coffin_display_pole_coffin=\box55
+\l__coffin_display_offset_dim=\dimen164
+\l__coffin_display_x_dim=\dimen165
+\l__coffin_display_y_dim=\dimen166
+\g__char_data_ior=\read2
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/l3kernel/l3deprecation.def
+File: l3deprecation.def 2019-04-06 v L3 Deprecated functions
+))
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.
+def
+File: l3backend-pdfmode.def 2019-04-06 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count196
+\l__pdf_internal_box=\box56
+))
+Package: xpatch 2012/10/02 v0.3 Extending etoolbox patching commands
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2019-10-11 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count197
+\g__xparse_grabber_int=\count198
+\l__xparse_m_args_int=\count199
+\l__xparse_v_nesting_int=\count266
+) (/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count267
+))
+Class scrartcl Info: amsthm's \deferred@thm@head patched.
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/amsmath/amsxtra.sty
+Package: amsxtra 1999/11/15 v1.2c AMS extra commands
+LaTeX Info: Redefining \nobreakspace on input line 54.
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip74
+\multirow@cntb=\count268
+\multirow@dima=\skip75
+\bigstrutjot=\dimen167
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/ncctools/nccmath.sty
+Package: nccmath 2006/01/20 v1.3 Additional Math Commands (NCC)
+\NCC@fracrulewidth=\dimen168
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfutil-comm
+on.tex
+\pgfutil@everybye=\toks37
+\pgfutil@tempdima=\dimen169
+\pgfutil@tempdimb=\dimen170
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfutil-comm
+on-lists.tex))
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfutil-late
+x.def
+\pgfutil@abb=\box57
+ (/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.
+tex (/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2019/08/03 v3.1.4b (3.1.4b)
+))
+Package: pgf 2019/08/03 v3.1.4b (3.1.4b)
+ (/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty 
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.cod
+e.tex
+Package: pgfsys 2019/08/03 v3.1.4b (3.1.4b)
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code
+.tex
+\pgfkeys@pathtoks=\toks38
+\pgfkeys@temptoks=\toks39
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfkeysfilte
+red.code.tex
+\pgfkeys@tmptoks=\toks40
+))
+\pgf@x=\dimen171
+\pgf@y=\dimen172
+\pgf@xa=\dimen173
+\pgf@ya=\dimen174
+\pgf@xb=\dimen175
+\pgf@yb=\dimen176
+\pgf@xc=\dimen177
+\pgf@yc=\dimen178
+\pgf@xd=\dimen179
+\pgf@yd=\dimen180
+\w@pgf@writea=\write4
+\r@pgf@reada=\read3
+\c@pgf@counta=\count269
+\c@pgf@countb=\count270
+\c@pgf@countc=\count271
+\c@pgf@countd=\count272
+\t@pgf@toka=\toks41
+\t@pgf@tokb=\toks42
+\t@pgf@tokc=\toks43
+\pgf@sys@id@count=\count273
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2019/08/03 v3.1.4b (3.1.4b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdf
+tex.def
+File: pgfsys-pdftex.def 2019/08/03 v3.1.4b (3.1.4b)
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-com
+mon-pdf.def
+File: pgfsys-common-pdf.def 2019/08/03 v3.1.4b (3.1.4b)
+)))
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoft
+path.code.tex
+File: pgfsyssoftpath.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfsyssoftpath@smallbuffer@items=\count274
+\pgfsyssoftpath@bigbuffer@items=\count275
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprot
+ocol.code.tex
+File: pgfsysprotocol.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+))
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.cod
+e.tex
+Package: pgfcore 2019/08/03 v3.1.4b (3.1.4b)
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.
+tex
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.
+tex)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathparser.cod
+e.tex
+\pgfmath@dimen=\dimen181
+\pgfmath@count=\count276
+\pgfmath@box=\box58
+\pgfmath@toks=\toks44
+\pgfmath@stack@operand=\toks45
+\pgfmath@stack@operation=\toks46
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.
+code.tex
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.
+basic.code.tex)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.
+trigonometric.code.tex)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.
+random.code.tex)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.
+comparison.code.tex)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.
+base.code.tex)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.
+round.code.tex)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.
+misc.code.tex)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.
+integerarithmetics.code.tex)))
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code
+.tex
+\c@pgfmathroundto@lastzeros=\count277
+))
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoin
+ts.code.tex
+File: pgfcorepoints.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@picminx=\dimen182
+\pgf@picmaxx=\dimen183
+\pgf@picminy=\dimen184
+\pgf@picmaxy=\dimen185
+\pgf@pathminx=\dimen186
+\pgf@pathmaxx=\dimen187
+\pgf@pathminy=\dimen188
+\pgf@pathmaxy=\dimen189
+\pgf@xx=\dimen190
+\pgf@xy=\dimen191
+\pgf@yx=\dimen192
+\pgf@yy=\dimen193
+\pgf@zx=\dimen194
+\pgf@zy=\dimen195
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepath
+construct.code.tex
+File: pgfcorepathconstruct.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@path@lastx=\dimen196
+\pgf@path@lasty=\dimen197
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepath
+usage.code.tex
+File: pgfcorepathusage.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@shorten@end@additional=\dimen198
+\pgf@shorten@start@additional=\dimen199
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescop
+es.code.tex
+File: pgfcorescopes.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfpic=\box59
+\pgf@hbox=\box60
+\pgf@layerbox@main=\box61
+\pgf@picture@serial@count=\count278
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregrap
+hicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgflinewidth=\dimen256
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretran
+sformations.code.tex
+File: pgfcoretransformations.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@pt@x=\dimen257
+\pgf@pt@y=\dimen258
+\pgf@pt@temp=\dimen259
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequic
+k.code.tex
+File: pgfcorequick.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobje
+cts.code.tex
+File: pgfcoreobjects.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepath
+processing.code.tex
+File: pgfcorepathprocessing.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearro
+ws.code.tex
+File: pgfcorearrows.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfarrowsep=\dimen260
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshad
+e.code.tex
+File: pgfcoreshade.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@max=\dimen261
+\pgf@sys@shading@range@num=\count279
+\pgf@shadingcount=\count280
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimag
+e.code.tex
+File: pgfcoreimage.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexte
+rnal.code.tex
+File: pgfcoreexternal.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfexternal@startupbox=\box62
+))
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelaye
+rs.code.tex
+File: pgfcorelayers.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretran
+sparency.code.tex
+File: pgfcoretransparency.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatt
+erns.code.tex
+File: pgfcorepatterns.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.
+code.tex
+File: pgfcorerdf.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)))
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/modules/pgfmoduleshape
+s.code.tex
+File: pgfmoduleshapes.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfnodeparttextbox=\box63
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.
+code.tex
+File: pgfmoduleplot.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-ve
+rsion-0-65.sty
+Package: pgfcomp-version-0-65 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@nodesepstart=\dimen262
+\pgf@nodesepend=\dimen263
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-ve
+rsion-1-18.sty
+Package: pgfcomp-version-1-18 2019/08/03 v3.1.4b (3.1.4b)
+))
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code
+.tex)) (/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgffor.code.
+tex
+Package: pgffor 2019/08/03 v3.1.4b (3.1.4b)
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen264
+\pgffor@skip=\dimen265
+\pgffor@stack=\toks47
+\pgffor@toks=\toks48
+))
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tik
+z.code.tex
+Package: tikz 2019/08/03 v3.1.4b (3.1.4b)
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/libraries/pgflibrarypl
+othandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@plot@mark@count=\count281
+\pgfplotmarksize=\dimen266
+)
+\tikz@lastx=\dimen267
+\tikz@lasty=\dimen268
+\tikz@lastxsaved=\dimen269
+\tikz@lastysaved=\dimen270
+\tikz@lastmovetox=\dimen271
+\tikz@lastmovetoy=\dimen272
+\tikzleveldistance=\dimen273
+\tikzsiblingdistance=\dimen274
+\tikz@figbox=\box64
+\tikz@figbox@bg=\box65
+\tikz@tempbox=\box66
+\tikz@tempbox@bg=\box67
+\tikztreelevel=\count282
+\tikznumberofchildren=\count283
+\tikznumberofcurrentchild=\count284
+\tikz@fig@count=\count285
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/modules/pgfmodulematri
+x.code.tex
+File: pgfmodulematrix.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfmatrixcurrentrow=\count286
+\pgfmatrixcurrentcolumn=\count287
+\pgf@matrix@numberofcolumns=\count288
+)
+\tikz@expandcount=\count289
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/lib
+raries/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)))
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2019/10/18 v3.4a Customizing captions (AR)
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2019/09/09 v1.8e caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen275
+\captionmargin@=\dimen276
+\captionwidth=\dimen277
+\caption@tempdima=\dimen278
+\caption@indent=\dimen279
+\caption@parindent=\dimen280
+\caption@hangindent=\dimen281
+Package caption Info: KOMA-Script document class detected.
+)
+Package caption Info: KOMA-Script document class.
+\c@caption@flags=\count290
+\c@continuedfloat=\count291
+Package caption Info: float package is loaded.
+Package caption Info: rotating package is loaded.
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/lastpage/lastpage.sty
+Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/lib
+raries/tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2019/11/10 v7.00c Hypertext links for LaTeX
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)))
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+) (/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/oberdiek/pdfescape.sty
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/oberdiek/hycolor.sty
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/oberdiek/xcolor-patch.sty
+Package: xcolor-patch 2016/05/16 xcolor patch
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/oberdiek/hopatch.sty
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+)))
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/oberdiek/letltxmacro.sty
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen282
+\Hy@linkcounter=\count292
+\Hy@pagecounter=\count293
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2019/11/10 v7.00c Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/oberdiek/intcalc.sty
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count294
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `pdfpagelabels' set `true' on input line 4409.
+Package hyperref Info: Option `hyperfigures' set `true' on input line 4409.
+Package hyperref Info: Option `hyperindex' set `true' on input line 4409.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 4409
+.
+Package hyperref Info: Option `colorlinks' set `true' on input line 4409.
+Package hyperref Info: Option `bookmarks' set `true' on input line 4409.
+Package hyperref Info: Option `breaklinks' set `true' on input line 4409.
+Package hyperref Info: Option `linktocpage' set `true' on input line 4409.
+Package hyperref Info: Hyper figures ON on input line 4533.
+Package hyperref Info: Link nesting OFF on input line 4540.
+Package hyperref Info: Hyper index ON on input line 4543.
+Package hyperref Info: Plain pages OFF on input line 4550.
+Package hyperref Info: Backreferencing OFF on input line 4555.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4788.
+\c@Hy@tempcnt=\count295
+LaTeX Info: Redefining \url on input line 5147.
+\XeTeXLinkMargin=\dimen283
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/oberdiek/bitset.sty
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/oberdiek/bigintcalc.sty
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count296
+\Field@Width=\dimen284
+\Fld@charsize=\dimen285
+Package hyperref Info: Hyper figures ON on input line 6416.
+Package hyperref Info: Link nesting OFF on input line 6423.
+Package hyperref Info: Hyper index ON on input line 6426.
+Package hyperref Info: backreferencing OFF on input line 6433.
+Package hyperref Info: Link coloring ON on input line 6436.
+Package hyperref Info: Link coloring with OCG OFF on input line 6443.
+Package hyperref Info: PDF/A mode OFF on input line 6448.
+LaTeX Info: Redefining \ref on input line 6488.
+LaTeX Info: Redefining \pageref on input line 6492.
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+))
+\Hy@abspage=\count297
+\c@Item=\count298
+\c@Hfootnote=\count299
+)
+Package hyperref Info: Driver: hpdftex.
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2019/11/10 v7.00c Hyperref driver for pdfTeX
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/oberdiek/atveryend.sty
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+)
+\Fld@listcount=\count300
+\c@bookmark@seq@number=\count301
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/oberdiek/uniquecounter.sty
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip76
+) (/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count302
+\Gm@cntv=\count303
+\c@Gm@tempcnt=\count304
+\Gm@bindingoffset=\dimen286
+\Gm@wd@mp=\dimen287
+\Gm@odd@mp=\dimen288
+\Gm@even@mp=\dimen289
+\Gm@layoutwidth=\dimen290
+\Gm@layoutheight=\dimen291
+\Gm@layouthoffset=\dimen292
+\Gm@layoutvoffset=\dimen293
+\Gm@dimlist=\toks49
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2019/11/21 v0.5o Insert pages of external PDF documents (AM)
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count305
+\calc@Bcount=\count306
+\calc@Adimen=\dimen294
+\calc@Bdimen=\dimen295
+\calc@Askip=\skip77
+\calc@Bskip=\skip78
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count307
+\calc@Cskip=\skip79
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
+)
+\AM@pagewidth=\dimen296
+\AM@pageheight=\dimen297
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2019/11/21 v0.5o Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box68
+\AM@global@opts=\toks50
+\AM@toc@title=\toks51
+\c@AM@survey=\count308
+\AM@templatesizebox=\box69
+)
+\c@dbdefine=\count309
+\c@dbtheorem=\count310
+\c@dblemma=\count311
+\c@dbnotate=\count312
+\c@dbaxiom=\count313
+\@indexfile=\write5
+\openout5 = `D5.3-Benchmark_cases_M36.idx'.
+
+
+Writing index file D5.3-Benchmark_cases_M36.idx
+\@glossaryfile=\write6
+\openout6 = `D5.3-Benchmark_cases_M36.glo'.
+
+Writing glossary file D5.3-Benchmark_cases_M36.glo 
+) (/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/acronym/acronym.sty
+Package: acronym 2019/11/11 v1.42 Support for acronyms (Tobias Oetiker)
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/bigfoot/suffix.sty
+Package: suffix 2006/07/15 1.5a Variant command support
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/xstring/xstring.sty
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/xstring/xstring.tex
+\integerpart=\count314
+\decimalpart=\count315
+)
+Package: xstring 2019/02/06 v1.83 String manipulations (CT)
+)
+\AC@clearlist=\toks52
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/todonotes/todonotes.sty
+Package: todonotes 2019/01/24 v1.1.2 Todonotes source and documentation.
+Package: todonotes 2018/11/22
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks53
+\XKV@tempa@toks=\toks54
+)
+\XKV@depth=\count316
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/lib
+raries/tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/lib
+raries/tikzlibraryshadows.code.tex
+File: tikzlibraryshadows.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/lib
+raries/tikzlibraryfadings.code.tex
+File: tikzlibraryfadings.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/pgf/libraries/pgflibraryfa
+dings.code.tex
+File: pgflibraryfadings.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)))
+\c@@todonotes@numberoftodonotes=\count317
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/pythonhighlight/pythonhighli
+ght.sty
+Package: pythonhighlight 2017/02/09 python code highlighting; provided by Olivi
+er Verdier <olivier.verdier@gmail.com>
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count318
+\lst@gtempboxa=\box70
+\lst@token=\toks55
+\lst@length=\count319
+\lst@currlwidth=\dimen298
+\lst@column=\count320
+\lst@pos=\count321
+\lst@lostspace=\dimen299
+\lst@width=\dimen300
+\lst@newlines=\count322
+\lst@lineno=\count323
+\lst@maxwidth=\dimen301
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+\c@lstnumber=\count324
+\lst@skipnumbers=\count325
+\lst@framebox=\box71
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2019/09/10 1.8c listings configuration
+))
+Package: listings 2019/09/10 1.8c (Carsten Heinz)
+)
+(./D5.3-Benchmark_cases_M36.aux)
+\openout1 = `D5.3-Benchmark_cases_M36.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1
+1.
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+Package scrbase Info: activating english \contentsname on input line 11.
+Package scrbase Info: activating english \listfigurename on input line 11.
+Package scrbase Info: activating english \listtablename on input line 11.
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count326
+\scratchdimen=\dimen302
+\scratchbox=\box72
+\nofMPsegments=\count327
+\nofMParguments=\count328
+\everyMPshowfont=\toks56
+\MPscratchCnt=\count329
+\MPscratchDim=\dimen303
+\MPnumerator=\count330
+\makeMPintoPDFobject=\count331
+\everyMPtoPDFconversion=\toks57
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.s
+ty
+Package: epstopdf-base 2019-11-30 v2.9 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+)) ABD: EveryShipout initializing macros
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 11.
+\AtBeginShipoutBox=\box73
+Package hyperref Info: Link coloring ON on input line 11.
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/oberdiek/refcount.sty
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.st
+y
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count332
+)
+LaTeX Info: Redefining \ref on input line 11.
+LaTeX Info: Redefining \pageref on input line 11.
+LaTeX Info: Redefining \nameref on input line 11.
+ (./D5.3-Benchmark_cases_M36.out) (./D5.3-Benchmark_cases_M36.out)
+\@outlinefile=\write7
+\openout7 = `D5.3-Benchmark_cases_M36.out'.
+
+Class scrartcl Info: loading recommended package `bookmark'.
+(scrartcl)           Using `bookmark' together with `hyperref' is recommended,
+(scrartcl)           because of handling of possible bookmark level gaps.
+(scrartcl)           You can avoid loading `bookmark' with KOMA-Script option
+(scrartcl)           `bookmarkpackage=false' before \begin{document} and
+(scrartcl)           you can avoid this message adding:
+(scrartcl)             \usepackage{bookmark}
+(scrartcl)           before \begin{document} on input line 11.
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/oberdiek/bookmark.sty
+Package: bookmark 2019/06/04 v1.27 PDF bookmarks (HO)
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/oberdiek/bkm-pdftex.def
+File: bkm-pdftex.def 2019/06/04 v1.27 bookmark driver for pdfTeX (HO)
+Package auxhook Info: \AddLineBeginMainAux comes a little late,
+(auxhook)             because the main .aux file is already opened on input lin
+e 168.
+\BKM@id=\count333
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: heightrounded 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=731.80032pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.7645pt
+* \headheight=17.0pt
+* \headsep=20.40001pt
+* \topskip=11.0pt
+* \footskip=47.6pt
+* \marginparwidth=48.36958pt
+* \marginparsep=12.8401pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 85.
+)
+
+Package todonotes Warning: The length marginparwidth is less than 2cm and will 
+most likely cause issues with the appearance of inserted todonotes. The issue c
+an be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to 
+loading the todonotes package. on input line 11.
+
+\c@lstlisting=\count334
+Package hyperref Info: Option `pageanchor' set `false' on input line 15.
+<./images/ROMSOC_Logo.png, id=31, 441.5697pt x 461.8053pt>
+File: ./images/ROMSOC_Logo.png Graphic file (type png)
+<use ./images/ROMSOC_Logo.png>
+Package pdftex.def Info: ./images/ROMSOC_Logo.png  used on input line 37.
+(pdftex.def)             Requested size: 96.73788pt x 101.16763pt.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 45.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 45.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 46.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 57
+.
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 57.
+
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 57.
+
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<./images/logos/EU_Flag.png, id=33, 321.2pt x 213.79875pt>
+File: ./images/logos/EU_Flag.png Graphic file (type png)
+<use ./images/logos/EU_Flag.png>
+Package pdftex.def Info: ./images/logos/EU_Flag.png  used on input line 58.
+(pdftex.def)             Requested size: 64.23886pt x 42.75899pt.
+ [2
+
+{/opt/sissa/apps/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./
+images/ROMSOC_Logo.png> <./images/logos/EU_Flag.png>]
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 1
+33.
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/psnfss/ot1phv.fd
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 133.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 140.
+ [3
+
+]
+(./D5.3-Benchmark_cases_M36.toc)
+\tf@toc=\write8
+\openout8 = `D5.3-Benchmark_cases_M36.toc'.
+
+ [4
+
+] (./acronyms.tex [5])
+Package hyperref Info: Option `pageanchor' set `true' on input line 180.
+ (./content.tex
+LaTeX Font Info:    Trying to load font information for OMS+ptm on input line 9
+.
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 9.
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2019/09/10 1.8c listings language file
+)
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 1
+5.
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+LaTeX Font Info:    Font shape `OT1/pcr/bx/n' in size <9> not available
+(Font)              Font shape `OT1/pcr/b/n' tried instead on input line 16.
+
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2019/09/10 1.8c listings language file
+)
+(/opt/sissa/apps/texlive/2019/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2019/09/10 1.8c listings language file
+)
+<images/ROMSOC_Logo_bw.png, id=89, 441.5697pt x 461.8053pt>
+File: images/ROMSOC_Logo_bw.png Graphic file (type png)
+<use images/ROMSOC_Logo_bw.png>
+Package pdftex.def Info: images/ROMSOC_Logo_bw.png  used on input line 59.
+(pdftex.def)             Requested size: 42.67912pt x 44.63298pt.
+
+
+Package scrlayer-scrpage Warning: \footheight to low.
+(scrlayer-scrpage)                At least 57.24883pt needed,
+(scrlayer-scrpage)                but only 40.0pt found.
+(scrlayer-scrpage)                I'll enlarge \footheight, for further
+(scrlayer-scrpage)                processing, but you should do this yourself,
+(scrlayer-scrpage)                e.g., using
+(scrlayer-scrpage)                  \setlength{\footheight}{57.24883pt}
+(scrlayer-scrpage)                in your preamble.
+(scrlayer-scrpage)                I'll also increase \footskip on input line 59
+.
+
+[1
+
+ <./images/ROMSOC_Logo_bw.png>]
+File: images/ROMSOC_Logo_bw.png Graphic file (type png)
+<use images/ROMSOC_Logo_bw.png>
+Package pdftex.def Info: images/ROMSOC_Logo_bw.png  used on input line 119.
+(pdftex.def)             Requested size: 42.67912pt x 44.63298pt.
+ [2]
+File: images/ROMSOC_Logo_bw.png Graphic file (type png)
+<use images/ROMSOC_Logo_bw.png>
+Package pdftex.def Info: images/ROMSOC_Logo_bw.png  used on input line 177.
+(pdftex.def)             Requested size: 42.67912pt x 44.63298pt.
+ [3]
+File: images/ROMSOC_Logo_bw.png Graphic file (type png)
+<use images/ROMSOC_Logo_bw.png>
+Package pdftex.def Info: images/ROMSOC_Logo_bw.png  used on input line 234.
+(pdftex.def)             Requested size: 42.67912pt x 44.63298pt.
+ [4]
+File: images/ROMSOC_Logo_bw.png Graphic file (type png)
+<use images/ROMSOC_Logo_bw.png>
+Package pdftex.def Info: images/ROMSOC_Logo_bw.png  used on input line 296.
+(pdftex.def)             Requested size: 42.67912pt x 44.63298pt.
+ [5]
+File: images/ROMSOC_Logo_bw.png Graphic file (type png)
+<use images/ROMSOC_Logo_bw.png>
+Package pdftex.def Info: images/ROMSOC_Logo_bw.png  used on input line 352.
+(pdftex.def)             Requested size: 42.67912pt x 44.63298pt.
+ [6]
+File: images/ROMSOC_Logo_bw.png Graphic file (type png)
+<use images/ROMSOC_Logo_bw.png>
+Package pdftex.def Info: images/ROMSOC_Logo_bw.png  used on input line 408.
+(pdftex.def)             Requested size: 42.67912pt x 44.63298pt.
+ [7]
+File: images/ROMSOC_Logo_bw.png Graphic file (type png)
+<use images/ROMSOC_Logo_bw.png>
+Package pdftex.def Info: images/ROMSOC_Logo_bw.png  used on input line 462.
+(pdftex.def)             Requested size: 42.67912pt x 44.63298pt.
+ [8]
+File: images/ROMSOC_Logo_bw.png Graphic file (type png)
+<use images/ROMSOC_Logo_bw.png>
+Package pdftex.def Info: images/ROMSOC_Logo_bw.png  used on input line 512.
+(pdftex.def)             Requested size: 42.67912pt x 44.63298pt.
+ [9]
+Overfull \hbox (49.75453pt too wide) in paragraph at lines 532--533
+[][][][] 
+ []
+
+File: images/ROMSOC_Logo_bw.png Graphic file (type png)
+<use images/ROMSOC_Logo_bw.png>
+Package pdftex.def Info: images/ROMSOC_Logo_bw.png  used on input line 636.
+(pdftex.def)             Requested size: 42.67912pt x 44.63298pt.
+[10]
+File: images/ROMSOC_Logo_bw.png Graphic file (type png)
+<use images/ROMSOC_Logo_bw.png>
+Package pdftex.def Info: images/ROMSOC_Logo_bw.png  used on input line 697.
+(pdftex.def)             Requested size: 42.67912pt x 44.63298pt.
+ [11]
+File: images/ROMSOC_Logo_bw.png Graphic file (type png)
+<use images/ROMSOC_Logo_bw.png>
+Package pdftex.def Info: images/ROMSOC_Logo_bw.png  used on input line 750.
+(pdftex.def)             Requested size: 42.67912pt x 44.63298pt.
+ [12]
+File: images/ROMSOC_Logo_bw.png Graphic file (type png)
+<use images/ROMSOC_Logo_bw.png>
+Package pdftex.def Info: images/ROMSOC_Logo_bw.png  used on input line 798.
+(pdftex.def)             Requested size: 42.67912pt x 44.63298pt.
+ [13]
+File: images/ROMSOC_Logo_bw.png Graphic file (type png)
+<use images/ROMSOC_Logo_bw.png>
+Package pdftex.def Info: images/ROMSOC_Logo_bw.png  used on input line 855.
+(pdftex.def)             Requested size: 42.67912pt x 44.63298pt.
+ [14]
+File: images/ROMSOC_Logo_bw.png Graphic file (type png)
+<use images/ROMSOC_Logo_bw.png>
+Package pdftex.def Info: images/ROMSOC_Logo_bw.png  used on input line 911.
+(pdftex.def)             Requested size: 42.67912pt x 44.63298pt.
+ [15]
+File: images/ROMSOC_Logo_bw.png Graphic file (type png)
+<use images/ROMSOC_Logo_bw.png>
+Package pdftex.def Info: images/ROMSOC_Logo_bw.png  used on input line 960.
+(pdftex.def)             Requested size: 42.67912pt x 44.63298pt.
+ [16]
+File: images/ROMSOC_Logo_bw.png Graphic file (type png)
+<use images/ROMSOC_Logo_bw.png>
+Package pdftex.def Info: images/ROMSOC_Logo_bw.png  used on input line 1015.
+(pdftex.def)             Requested size: 42.67912pt x 44.63298pt.
+ [17]
+File: images/ROMSOC_Logo_bw.png Graphic file (type png)
+<use images/ROMSOC_Logo_bw.png>
+Package pdftex.def Info: images/ROMSOC_Logo_bw.png  used on input line 1069.
+(pdftex.def)             Requested size: 42.67912pt x 44.63298pt.
+ [18]
+File: images/ROMSOC_Logo_bw.png Graphic file (type png)
+<use images/ROMSOC_Logo_bw.png>
+Package pdftex.def Info: images/ROMSOC_Logo_bw.png  used on input line 1116.
+(pdftex.def)             Requested size: 42.67912pt x 44.63298pt.
+ [19]
+File: images/ROMSOC_Logo_bw.png Graphic file (type png)
+<use images/ROMSOC_Logo_bw.png>
+Package pdftex.def Info: images/ROMSOC_Logo_bw.png  used on input line 1163.
+(pdftex.def)             Requested size: 42.67912pt x 44.63298pt.
+ [20]
+File: images/ROMSOC_Logo_bw.png Graphic file (type png)
+<use images/ROMSOC_Logo_bw.png>
+Package pdftex.def Info: images/ROMSOC_Logo_bw.png  used on input line 1195.
+(pdftex.def)             Requested size: 42.67912pt x 44.63298pt.
+ [21])
+(./D5.3-Benchmark_cases_M36.bbl
+File: images/ROMSOC_Logo_bw.png Graphic file (type png)
+<use images/ROMSOC_Logo_bw.png>
+Package pdftex.def Info: images/ROMSOC_Logo_bw.png  used on input line 77.
+(pdftex.def)             Requested size: 42.67912pt x 44.63298pt.
+ [22])
+File: images/ROMSOC_Logo_bw.png Graphic file (type png)
+<use images/ROMSOC_Logo_bw.png>
+Package pdftex.def Info: images/ROMSOC_Logo_bw.png  used on input line 189.
+(pdftex.def)             Requested size: 42.67912pt x 44.63298pt.
+ [23]
+<./images/ROMSOC_Logo_bw.png, id=1123, 441.5697pt x 461.8053pt>
+File: ./images/ROMSOC_Logo_bw.png Graphic file (type png)
+<use ./images/ROMSOC_Logo_bw.png>
+Package pdftex.def Info: ./images/ROMSOC_Logo_bw.png  used on input line 197.
+(pdftex.def)             Requested size: 85.35826pt x 89.26598pt.
+ 
+AED: lastpage setting LastPage
+[24
+
+ <./images/ROMSOC_Logo_bw.png>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 208.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 208.
+ (./D5.3-Benchmark_cases_M36.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 208.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 208.
+Package rerunfilecheck Info: File `D5.3-Benchmark_cases_M36.out' has not change
+d.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+ ) 
+Here is how much of TeX's memory you used:
+ 40152 strings out of 492164
+ 770181 string characters out of 6122933
+ 1516136 words of memory out of 5000000
+ 42962 multiletter control sequences out of 15000+600000
+ 558083 words of font info for 76 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,24n,109p,10159b,2297s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/opt/sissa/apps/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}</opt/si
+ssa/apps/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></op
+t/sissa/apps/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><
+/opt/sissa/apps/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pf
+b></opt/sissa/apps/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.
+pfb></opt/sissa/apps/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+y10.pfb></opt/sissa/apps/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmsy8.pfb></opt/sissa/apps/texlive/2019/texmf-dist/fonts/type1/public/amsfonts
+/symbols/msbm10.pfb></opt/sissa/apps/texlive/2019/texmf-dist/fonts/type1/urw/co
+urier/ucrb8a.pfb></opt/sissa/apps/texlive/2019/texmf-dist/fonts/type1/urw/couri
+er/ucrr8a.pfb></opt/sissa/apps/texlive/2019/texmf-dist/fonts/type1/urw/courier/
+ucrro8a.pfb></opt/sissa/apps/texlive/2019/texmf-dist/fonts/type1/urw/helvetic/u
+hvb8a.pfb></opt/sissa/apps/texlive/2019/texmf-dist/fonts/type1/urw/times/utmb8a
+.pfb></opt/sissa/apps/texlive/2019/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
+</opt/sissa/apps/texlive/2019/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt
+/sissa/apps/texlive/2019/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on D5.3-Benchmark_cases_M36.pdf (28 pages, 519542 bytes).
+PDF statistics:
+ 1412 PDF objects out of 1440 (max. 8388607)
+ 1330 compressed objects within 14 object streams
+ 950 named destinations out of 1000 (max. 500000)
+ 225 words of extra memory for PDF output out of 10000 (max. 10000000)
+
