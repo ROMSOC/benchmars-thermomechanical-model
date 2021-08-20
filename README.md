@@ -1,4 +1,5 @@
 ## Coupled parameterized reduced order modelling of thermo-mechanical phenomena arising in blast furnace ##
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5171821.svg)](https://doi.org/10.5281/zenodo.5171821)
 
 ### 0. Introduction
 
