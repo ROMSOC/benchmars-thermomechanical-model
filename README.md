@@ -38,14 +38,12 @@ This code has been developed by [Nirav Vasant Shah] [email](mailto:shah.nirav@si
 
 ### 5. How to cite
 
-	@misc{thermomechanical_coupled_one_way-0.1,
-	key          = {ThermoMechanicalCoupled},
-	author       = {Shah, N.V. and Girfoglio, M. and Barral, P. and Quintela, P. and Rozza, G. and Lengomin, A.},
-	title        = {{ThermoMechanicalCoupled} -- {Coupled parameterized reduced order modelling of thermo-mechanical phenomena arising in blast furnaces} {Version 0.1}},
-	month        = June,
-	year         = 2021,
-	doi          = {10.xxxx/zenodo.xxxxxxx},
-	note         = {see also: \url{https://zenodo.org/record/3888145}}
+	@misc{Shah_ThermoMechanicalCoupled__Coupled_2021,
+	author = {Shah, Nirav V. and Girfoglio, Michele and Barral, Patricia and Quintela, Peregrina and Rozza, Gianluigi and Lengomin-Pieiga, Alejandro},
+	doi = {10.5281/zenodo.5171821},
+	title = {{ThermoMechanicalCoupled -- Coupled parameterized reduced order modelling of thermo-mechanical phenomena arising in blast furnaces}},
+	url = {https://github.com/ROMSOC/benchmars-thermomechanical-model},
+	year = {2021}
 	}
 
 ### 6. License
