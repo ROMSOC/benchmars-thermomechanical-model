@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Shah"
+  given-names: "Nirav V."
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Girfoglio"
+  given-names: "Michele"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Barral"
+  given-names: "Patricia"
+  orcid: "https://orcid.org/0000-0003-0921-4585"
+- family-names: "Quintela"
+  given-names: "Peregrina"
+  orcid: "https://orcid.org/0000-0003-2717-8936"
+- family-names: "Rozza"
+  given-names: "Gianluigi"
+  orcid: "https://orcid.org/0000-0002-0810-8812"
+- family-names: "Lengomin-Pieiga"
+  given-names: "Alejandro"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "ThermoMechanicalCoupled -- Coupled parameterized reduced order modelling of thermo-mechanical phenomena arising in blast furnaces"
+version: 1.0.0
+doi: 10.5281/zenodo.5171821
+date-released: 2021-01-06
+url: "https://github.com/ROMSOC/benchmars-thermomechanical-model"
