@@ -33,6 +33,8 @@ Run required .py file e.g. "file_name.py" as,
 ```
 python3 file_name.py
 ```
+Alternatively, a user-friendly Jupyter Notebook could be used to run different benchmarks. For instance, the mechanical benchmark is available at:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ROMSOC/benchmars-thermomechanical-model/HEAD?labpath=source/mechanical_model/benchmark_mechanical.ipynb)
 
 ### 4. Authors and contributors
 
