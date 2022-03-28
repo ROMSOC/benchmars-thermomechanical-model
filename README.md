@@ -1,7 +1,7 @@
 <img src="documentation/images/ROMSOC_Logo.png" alt="ROMSOC logo"  width="150"/>
 
 ## Coupled parameterized reduced order modelling of thermo-mechanical phenomena arising in blast furnace ##
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5171821.svg)](https://doi.org/10.5281/zenodo.5171821)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5171821.svg)](https://doi.org/10.5281/zenodo.5171821) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ROMSOC/benchmars-thermomechanical-model/HEAD?labpath=source/mechanical_model/benchmark_mechanical.ipynb)
 
 ### 0. Introduction
 
@@ -33,8 +33,19 @@ Run required .py file e.g. "file_name.py" as,
 ```
 python3 file_name.py
 ```
-Alternatively, an user-friendly Jupyter Notebook could be used to run different benchmarks. For instance, the mechanical benchmark is available at:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ROMSOC/benchmars-thermomechanical-model/HEAD?labpath=source/mechanical_model/benchmark_mechanical.ipynb)
+
+### RUN JUPYTER NOTEBOOK
+The entire benchmark repository can be executed in a provided Docker container where a full installation of Intel OneAPI is available. Once you have clone or downloaded this repository, to build the container just type
+```bash
+docker build -t benchmars-thermomechanical-model . 
+```
+and for running it locally:
+```bash
+docker run -u 0 -it --rm -p 8888:8888 benchmars-thermomechanical-model jupyter-lab --ip=0.0.0.0 --port=8888 --allow-root
+```
+
+Alternatively, user-friendly Jupyter Notebooks could be used to run different benchmarks on the cloud. For instance, the benchmark is available at:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ROMSOC/benchmars-thermomechanical-model/HEAD?labpath=source/mechanical_model/benchmark_mechanical.ipynb). Please, notice that mybinder cloud computations are limited to 2GB of RAM memory.
 
 ### 4. Authors and contributors
 
