@@ -35,13 +35,13 @@ python3 file_name.py
 ```
 
 ### 4. Running Jupyter notebooks
-The entire benchmark repository can be executed in a provided Docker container where a full installation of Intel OneAPI is available. Once you have clone or downloaded this repository, to build the container just type
+The entire benchmark repository can be executed in a provided Docker container where a full installations of FEniCS, RBniCS, and different Python packages are available. Once you have clone or downloaded this repository, to build the container just type
 ```bash
 docker build -t benchmars-thermomechanical-model . 
 ```
 and for running it locally:
 ```bash
-docker run -u 0 -it --rm -p 8888:8888 benchmars-thermomechanical-model jupyter-lab --ip=0.0.0.0 --port=8888 --allow-root
+docker run -it --rm -p 8888:8888 benchmars-thermomechanical-model jupyter-lab --ip=0.0.0.0 --port=8888 --allow-root
 ```
 
 Alternatively, user-friendly Jupyter Notebooks could be used to run different benchmarks on the cloud. For instance, the benchmark is available at:
