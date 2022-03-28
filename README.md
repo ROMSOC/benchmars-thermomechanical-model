@@ -34,7 +34,7 @@ Run required .py file e.g. "file_name.py" as,
 python3 file_name.py
 ```
 
-### RUN JUPYTER NOTEBOOK
+### 4. Running Jupyter notebooks
 The entire benchmark repository can be executed in a provided Docker container where a full installation of Intel OneAPI is available. Once you have clone or downloaded this repository, to build the container just type
 ```bash
 docker build -t benchmars-thermomechanical-model . 
@@ -47,11 +47,11 @@ docker run -u 0 -it --rm -p 8888:8888 benchmars-thermomechanical-model jupyter-l
 Alternatively, user-friendly Jupyter Notebooks could be used to run different benchmarks on the cloud. For instance, the benchmark is available at:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ROMSOC/benchmars-thermomechanical-model/HEAD?labpath=source/mechanical_model/benchmark_mechanical.ipynb). Please, notice that mybinder cloud computations are limited to 2GB of RAM memory.
 
-### 4. Authors and contributors
+### 5. Authors and contributors
 
 This code has been developed by [Nirav Vasant Shah] [email](mailto:shah.nirav@sissa.it) under the supervision of [Dr. Michele Girfoglio] [email](mailto:michele.girfoglio@sissa.it), [Dr. Patricia Barral] [email](mailto:patricia.barral@usc.es), [Prof. Peregrina Quintela] [email](mailto:peregrina.quintela@itmati.com), [Prof. Gianluigi Rozza] [email](mailto:gianluigi.rozza@sissa.it) and [Ing. Alejandro Lengomin] [email](mailto:alejandro.lengomin@arcelormittal.com).
 
-### 5. How to cite
+### 6. How to cite
 
 	@misc{Shah_ThermoMechanicalCoupled__Coupled_2021,
 	author = {Shah, Nirav V. and Girfoglio, Michele and Barral, Patricia and Quintela, Peregrina and Rozza, Gianluigi and Lengomin-Pieiga, Alejandro},
@@ -61,17 +61,17 @@ This code has been developed by [Nirav Vasant Shah] [email](mailto:shah.nirav@si
 	year = {2021}
 	}
 
-### 6. License
+### 7. License
 
 * **FEniCS** and **RBniCS** are freely available under the GNU LGPL, version 3.
 * **Matplotlib** only uses BSD compatible code, and its license is based on the PSF license. Non-BSD compatible licenses (e.g., LGPL) are acceptable in matplotlib toolkits.
 
 Accordingly, this code is freely available under the GNU LGPL, version 3.
 
-### 7. Disclaimer
+### 8. Disclaimer
 In downloading this SOFTWARE you are deemed to have read and agreed to the following terms: This SOFT- WARE has been designed with an exclusive focus on civil applications. It is not to be used for any illegal, deceptive, misleading or unethical purpose or in any military applications. This includes ANY APPLICATION WHERE THE USE OF THE SOFTWARE MAY RESULT IN DEATH, PERSONAL INJURY OR SEVERE PHYSICAL OR ENVIRONMENTAL DAMAGE. Any redistribution of the software must retain this disclaimer. BY INSTALLING, COPYING, OR OTHERWISE USING THE SOFTWARE, YOU AGREE TO THE TERMS ABOVE. IF YOU DO NOT AGREE TO THESE TERMS, DO NOT INSTALL OR USE THE SOFTWARE.
 
-### 8. Acknowledgments
+### 9. Acknowledgments
 <img src="documentation/images/logos/EU_Flag.png" alt="EU Flag"  width="150"/>
 
 The ROMSOC project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie Grant Agreement No. 765374. This repository reflects the views of the author(s) and does not necessarily reflect the views or policy of the European Commission. The REA cannot be held responsible for any use that may be made of the information this repository contains.
